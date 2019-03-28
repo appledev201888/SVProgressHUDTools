@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SVProgressHUDTools.h</key>
 		<data>
-		pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
+		nsqlX1ss+rf63XYwXzkNjg+0t8A=
 		</data>
 		<key>Headers/SVProgressHUDToolsManage.h</key>
 		<data>
@@ -19,10 +19,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		9DN2T/PpBnN8ARxSIEUjeY/4QW4=
-		</data>
-		<key>SVProgressHUDTools.h</key>
-		<data>
-		pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
 		</data>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
 		<data>
@@ -67,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
+			nsqlX1ss+rf63XYwXzkNjg+0t8A=
 			</data>
 			<key>hash2</key>
 			<data>
-			KDlo7t9bbrRM933zbY9zKXAA98Ekyx5gdh5Js0AaxjM=
+			peITgvckrpasMsyUZ7HePFJK0vRnppAT1/vBmeng9Ec=
 			</data>
 		</dict>
 		<key>Headers/SVProgressHUDToolsManage.h</key>
@@ -94,17 +90,6 @@
 			<key>hash2</key>
 			<data>
 			6EEAAqKuO8h5JWdRVCNgxQ4nprLi5ikopQXY7PceCMY=
-			</data>
-		</dict>
-		<key>SVProgressHUDTools.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			KDlo7t9bbrRM933zbY9zKXAA98Ekyx5gdh5Js0AaxjM=
 			</data>
 		</dict>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
