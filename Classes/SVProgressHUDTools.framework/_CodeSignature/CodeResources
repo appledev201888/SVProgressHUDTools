@@ -20,10 +20,6 @@
 		<data>
 		9DN2T/PpBnN8ARxSIEUjeY/4QW4=
 		</data>
-		<key>SVProgressHUDTools.h</key>
-		<data>
-		nsqlX1ss+rf63XYwXzkNjg+0t8A=
-		</data>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
 		<data>
 		QysQ5GtGVn6HOmbavkmRiGiz64g=
@@ -94,17 +90,6 @@
 			<key>hash2</key>
 			<data>
 			6EEAAqKuO8h5JWdRVCNgxQ4nprLi5ikopQXY7PceCMY=
-			</data>
-		</dict>
-		<key>SVProgressHUDTools.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nsqlX1ss+rf63XYwXzkNjg+0t8A=
-			</data>
-			<key>hash2</key>
-			<data>
-			peITgvckrpasMsyUZ7HePFJK0vRnppAT1/vBmeng9Ec=
 			</data>
 		</dict>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
